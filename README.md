@@ -1,0 +1,1 @@
+# Hector-Badge-Of-Carnage-Full-Series
