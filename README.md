@@ -199,4 +199,4 @@ This repository serves as the official landing page for Hector: Badge of Carnage
 **Get the most recent version of Hector: Badge of Carnage today!**
 
 ---
-**Last updated:** 2026-11-07 20:37:00 UTC
+**Last updated:** 2026-11-08 00:06:03 UTC
